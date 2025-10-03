@@ -21,16 +21,19 @@ I'm currently a 3rd year undergrad majoring in CS at Columbia University. Previo
 - Trained a **Transformer-based punctuation prediction model** using **PyTorch**, improving punctuation restoration for speech transcripts.  
 - Conducted **literature reviews** on cutting-edge **speech recognition** research.
 
-**Video, Image, and Sound Analysis Lab, City University of Hong Kong**  
-*Student Researcher* | Sep. 2023 – Mar. 2025  
-- Developed **explainable AI methods** for interpreting predictions from **Transformer-based** (DETR, PVT) and **one- and two-stage object detectors** (FCOS, Faster R-CNN).  
-- Generated **explanation heatmaps** using **gradients w.r.t. feature maps**, and proposed a measure of **context influence** to quantify object relationships.
-
 **Department of Computer Science, City University of Hong Kong**  
 *Software Developer Intern* | Jun. 2024 – Mar. 2025  
 - Built a **chatbot web application** with a **Streamlit/React** frontend and **Django** backend
 - Integrated the **OpenAI API** to develop GPT-powered chatbots and implemented SQL and MongoDB databases for user and course data management
 - Deployed the platform using **Docker**, serving over **1,000** users
+
+**Video, Image, and Sound Analysis Lab, City University of Hong Kong**  
+*Student Researcher* | Sep. 2023 – Mar. 2025  
+- Developed **explainable AI methods** for interpreting predictions from **Transformer-based** (DETR, PVT) and **one- and two-stage object detectors** (FCOS, Faster R-CNN).  
+- Generated **explanation heatmaps** using **gradients w.r.t. feature maps**, and proposed a measure of **context influence** to quantify object relationships.
+
+
+  
 ## 📝 Publication 
 <span class='anchor' id='publication'></span>
 
