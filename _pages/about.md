@@ -33,7 +33,6 @@ I'm currently a 3rd year undergrad majoring in CS at Columbia University. Previo
 - Generated **explanation heatmaps** using **gradients w.r.t. feature maps**, and proposed a measure of **context influence** to quantify object relationships.
 
 
-  
 ## 📝 Publication 
 <span class='anchor' id='publication'></span>
 
