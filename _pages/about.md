@@ -54,6 +54,6 @@ Explaining Object Detection Through Difference Map
 
   
 ## 🏆 Honors and Awards 
+- Columbia University Distinguished New Student Scholoarship (2025)
 - National First Prize, Wutong Cup Big Data Innovation Competition (2024)
-- Columbia University Distinguished New Student Scholoarship (2025)  
 - HKSAR Talent Development Scholarship (2023 & 2025)
