@@ -11,7 +11,7 @@ I'm currently a 3rd year undergrad majoring in CS at Columbia University. Previo
 
 ## 📣 News 
 - [2025/09] Awarded the ICCV Broadening Participation Travel Grant. See you in Hawaii!
-- [2025/07] My first paper accepted to eXCV@ICCV 2025!
+- [2025/07] My first paper accepted to **eXCV@ICCV 2025**!
 
 ## ✨ Experiences 
 
@@ -26,7 +26,8 @@ I'm currently a 3rd year undergrad majoring in CS at Columbia University. Previo
 - Generated **explanation heatmaps** using **gradients w.r.t. feature maps**, and proposed a measure of **context influence** to quantify object relationships.
 
 ## 📝 Publication 
-eXCV@ICCV 2025 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">eXCV@ICCV 2025</div><img src='images/diffmap.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 Explaining Object Detection Through Difference Map
 **Shujun Xia**, Chenyang Zhao, Antoni Chan
 
