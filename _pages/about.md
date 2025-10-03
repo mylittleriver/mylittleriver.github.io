@@ -18,24 +18,31 @@ I'm currently a 3rd year undergrad majoring in CS at Columbia University. Previo
 
 **Hong Kong Generative AI Research and Development Center**  
 *Machine Learning Engineer Intern* | Mar. 2025 – Jun. 2025  
-- Trained a **Transformer-based punctuation prediction model** using **PyTorch**, improving punctuation restoration for **speech transcripts**.  
+- Trained a **Transformer-based punctuation prediction model** using **PyTorch**, improving punctuation restoration for speech transcripts.  
 - Conducted **literature reviews** on cutting-edge **speech recognition** research.
 
 **Video, Image, and Sound Analysis Lab, City University of Hong Kong**  
-*Research Intern* | Jun. 2024 – Mar. 2025  
-- Developed **explainable AI methods** for interpreting predictions from **Transformer-based detectors** (DETR, PVT) and **object detectors** (FCOS, Faster R-CNN).  
+*Student Researcher* | Sep. 2023 – Mar. 2025  
+- Developed **explainable AI methods** for interpreting predictions from **Transformer-based** (DETR, PVT) and **one- and two-stage object detectors** (FCOS, Faster R-CNN).  
 - Generated **explanation heatmaps** using **gradients w.r.t. feature maps**, and proposed a measure of **context influence** to quantify object relationships.
 
+**Department of Computer Science, City University of Hong Kong**  
+*Software Developer Intern* | Jun. 2024 – Mar. 2025  
+- Built a **chatbot web application** with a **Streamlit/React** frontend and **Django** backend
+- Integrated the **OpenAI API** to develop GPT-powered chatbots and implemented SQL and MongoDB databases for user and course data management
+- Deployed the platform using **Docker**, serving over **1,000** users
 ## 📝 Publication 
 <span class='anchor' id='publication'></span>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">eXCV@ICCV 2025</div><img src='images/diffmap.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Explaining Object Detection Through Difference Map
+
+**Shujun Xia**, Chenyang Zhao, Antoni Chan
 </div>
 </div>
 
-**Shujun Xia**, Chenyang Zhao, Antoni Chan
+
 
 ## 📖 Educations 
 <span class='anchor' id='educations'></span>
