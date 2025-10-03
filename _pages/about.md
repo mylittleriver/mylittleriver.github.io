@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<span class='anchor' id='about-me'></span>
 I'm currently a 3rd year undergrad majoring in CS at Columbia University. Previously, I was fortunate to work with Prof. [Antoni Chan](https://www.cs.cityu.edu.hk/~abchan/) on explainable AI for computer vision. I have also worked on Continual Learning and Knowledge Editing in LLMs with two first-authored papers under review. My current research interests lie in Multimodal Understanding and Learning. Collaborations of all kinds are always welcome!
 
 ## 📣 News 
