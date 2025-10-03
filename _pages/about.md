@@ -31,7 +31,7 @@ I'm currently a 3rd year undergrad majoring in CS at Columbia University. Previo
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">eXCV@ICCV 2025</div><img src='images/diffmap.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Explaining Object Detection Through Difference Map
+[Explaining Object Detection Through Difference Map] (https://openreview.net/forum?id=NiNi9qMjLd&referrer=%5Bthe%20profile%20of%20Shujun%20Xia%5D(%2Fprofile%3Fid%3D~Shujun_Xia1))
   
 **Shujun Xia**, Chenyang Zhao, Antoni Chan
 
