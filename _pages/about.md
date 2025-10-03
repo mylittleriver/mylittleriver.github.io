@@ -14,6 +14,7 @@ I'm currently a 3rd year undergrad majoring in CS at Columbia University. Previo
 - [2025/07] My first paper accepted to **eXCV@ICCV 2025**!
 
 ## ✨ Experiences 
+<span class='anchor' id='experiences'></span>
 
 **Hong Kong Generative AI Research and Development Center**  
 *Machine Learning Engineer Intern* | Mar. 2025 – Jun. 2025  
@@ -26,6 +27,8 @@ I'm currently a 3rd year undergrad majoring in CS at Columbia University. Previo
 - Generated **explanation heatmaps** using **gradients w.r.t. feature maps**, and proposed a measure of **context influence** to quantify object relationships.
 
 ## 📝 Publication 
+<span class='anchor' id='publication'></span>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">eXCV@ICCV 2025</div><img src='images/diffmap.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Explaining Object Detection Through Difference Map
@@ -33,6 +36,8 @@ Explaining Object Detection Through Difference Map
 **Shujun Xia**, Chenyang Zhao, Antoni Chan
 
 ## 📖 Educations 
+<span class='anchor' id='educations'></span>
+
 - 2025.08 - 2027.06 (expected): Columbia University.
 - 2022.08 - 2027.06 (expected): City University of Hong Kong.
 
