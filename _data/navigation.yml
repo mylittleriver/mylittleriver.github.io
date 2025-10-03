@@ -14,8 +14,11 @@ main:
   - title: "News"
     url: "/#-news"
 
+  - title: "Experiences"
+    url: "/#-experiences"
+
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#-publication"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
@@ -23,8 +26,3 @@ main:
   - title: "Educations"
     url: "/#-educations"
     
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
