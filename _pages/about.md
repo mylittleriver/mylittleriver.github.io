@@ -44,13 +44,11 @@ Explaining Object Detection Through Difference Map
 </div>
 </div>
 
-
-
 ## 📖 Educations 
 <span class='anchor' id='educations'></span>
 
-- 2025.08 - 2027.06 (expected): Columbia University.
-- 2022.08 - 2027.06 (expected): City University of Hong Kong.
+- 2025.08 - 2027.06 (expected): Columbia University (Dual Degree Program).
+- 2022.08 - 2027.06 (expected): City University of Hong Kong (Dual Degree Program).
 
   
 ## 🏆 Honors and Awards 
