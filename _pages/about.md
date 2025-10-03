@@ -7,4 +7,30 @@ redirect_from:
   - /about.html
 ---
 
-I'm a 3rd year undergrad majoring in CS at Columbia University. Previously, I was fortunate to work with Antoni. Chan on explainable AI for computer vision.
+I'm currently a 3rd year undergrad majoring in CS at Columbia University. Previously, I was fortunate to work with Prof. [Antoni Chan](https://www.cs.cityu.edu.hk/~abchan/) on explainable AI for computer vision. I have also worked on Continual Learning and Knowledge Editing in LLMs with two first-authored papers under review. My current research interests lie in Multimodal Understanding and Learning.
+
+## 📣 News 
+- [2025/09] Awarded the ICCV Broadening Participation Travel Grant. See you in Hawaii!
+- [2025/07] My first paper accepted to eXCV@ICCV 2025!
+
+## ✨ Experiences 
+
+**Hong Kong Generative AI Research and Development Center**  
+*Machine Learning Engineer Intern* | Mar. 2025 – Jun. 2025  
+- Trained a **Transformer-based punctuation prediction model** using **PyTorch**, improving punctuation restoration for **speech transcripts** (F1: 0.75).  
+- Conducted a **literature review** on state-of-the-art **speech recognition** research.
+
+**Video, Image, and Sound Analysis Lab, City University of Hong Kong**  
+*Research Intern* | Jun. 2024 – Mar. 2025  
+- Developed **explainable AI methods** for interpreting predictions from **Transformer-based detectors** (DETR, PVT) and **object detectors** (FCOS, Faster R-CNN).  
+- Generated **explanation heatmaps** using **gradients w.r.t. feature maps**, and proposed a measure of **context influence** to quantify object relationships.
+
+## 📖 Educations 
+- 2025.08 - 2027.06 (expected): Columbia University.
+- 2022.08 - 2027.06 (expected): City University of Hong Kong.
+
+  
+## 🏆 Honors and Awards 
+- National First Prize, Wutong Cup Big Data Innovation Competition (2024)
+- Columbia University Distinguished New Student Scholoarship (2025)  
+- HKSAR Talent Development Scholarship (2023 & 2025)
