@@ -27,7 +27,6 @@ I'm currently a 3rd year undergrad majoring in CS at Columbia University. Previo
 - Developed a **course management system** for teachers using **Spring Boot** and **React**, enabling student progress monitoring
 - Designed and optimized **SQL and MongoDB** schemas for user and chat data, improving query efficiency
 - Deployed both systems with **Docker** on **AWS Cloud** and implemented **automated testing** using **Pytest**, **JUnit 5**, and **Jest**
-- Conducted multiple **Agile development iterations**, incorporating user feedback to serve over **1,000 users**
 
 **Video, Image, and Sound Analysis Lab, City University of Hong Kong**  
 *Student Researcher* | Sep. 2023 – Jun. 2024
