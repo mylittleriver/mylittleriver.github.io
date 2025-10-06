@@ -19,7 +19,7 @@ I'm currently a 3rd year undergrad majoring in CS at Columbia University. Previo
 **Hong Kong Generative AI Research and Development Center**  
 *Machine Learning Engineer Intern* | Mar. 2025 – Jun. 2025  
 - Trained a **Transformer-based punctuation prediction model** using **PyTorch**, improving punctuation restoration for speech transcripts.  
-- Conducted **literature reviews** on cutting-edge **speech recognition** research.
+- Constructed an **automated data generation pipeline** using **Pandas** for speech transcript data.
 
 **Department of Computer Science, City University of Hong Kong**  
 *Software Developer Intern* | Jun. 2024 – Mar. 2025  
