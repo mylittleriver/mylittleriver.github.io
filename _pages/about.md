@@ -23,9 +23,11 @@ I'm currently a 3rd year undergrad majoring in CS at Columbia University. Previo
 
 **Department of Computer Science, City University of Hong Kong**  
 *Software Developer Intern* | Jun. 2024 – Mar. 2025  
-- Built a **chatbot web application** with a **Streamlit/React** frontend and **Django** backend
-- Integrated the **OpenAI API** to develop GPT-powered chatbots and implemented SQL and MongoDB databases for user and course data management
-- Deployed the platform using **Docker**, serving over **1,000** users
+- Built a **chatbot web application** for students with a **Python Streamlit front-end** and **Django backend**, integrating the **OpenAI API** for GPT-powered chatbots
+- Developed a **course management system** for teachers using **Spring Boot** and **React**, enabling student progress monitoring
+- Designed and optimized **SQL and MongoDB** schemas for user and chat data, improving query efficiency
+- Deployed both systems with **Docker** on **AWS Cloud** and implemented **automated testing** using **Pytest**, **JUnit 5**, and **Jest**
+- Conducted multiple **Agile development iterations**, incorporating user feedback to serve over **1,000 users**
 
 **Video, Image, and Sound Analysis Lab, City University of Hong Kong**  
 *Student Researcher* | Sep. 2023 – Jun. 2024
