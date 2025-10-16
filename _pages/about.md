@@ -47,7 +47,7 @@ I'm currently a 3rd year undergrad majoring in CS at Columbia University. Previo
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/diffmap.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/fig0_0925.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <a href="https://arxiv.org/abs/2510.13500">
       <b>MedREK: Retrieval-Based Editing for Medical LLMs with Key-Aware Prompts</b>
