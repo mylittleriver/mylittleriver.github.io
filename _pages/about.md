@@ -34,7 +34,7 @@ I'm currently a 3rd year undergrad majoring in CS at Columbia University. Previo
 - Generated **explanation heatmaps** using **gradients w.r.t. feature maps**, and proposed a measure of **context influence** to quantify object relationships.
 
 
-## 📝 Publication 
+## 📝 Publications
 <span class='anchor' id='publication'></span>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">eXCV@ICCV 2025</div><img src='images/diffmap.png' alt="sym" width="100%"></div></div>
@@ -44,6 +44,16 @@ I'm currently a 3rd year undergrad majoring in CS at Columbia University. Previo
     </a>
 <br>
     <b>Shujun Xia</b>, Chenyang Zhao, Antoni Chan
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/diffmap.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<a href="https://arxiv.org/abs/2510.13500">
+      <b>MedREK: Retrieval-Based Editing for Medical LLMs with Key-Aware Prompts</b>
+    </a>
+<br>
+    <b>Shujun Xia*</b>, Haokun Lin*, Yichen Wu, Yinan Zhou, Zixuan Li, Zhongwei Wan, Xingrun Xing, Yefeng Zheng, Xiang Li, Caifeng Shan, Zhenan Sun, Quanzheng Li
 </div>
 </div>
 
