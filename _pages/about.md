@@ -42,7 +42,8 @@ I'm currently a 3rd year undergrad majoring in CS at Columbia University. Previo
 <a href="https://excv-workshop.github.io/publication/explaining-object-detection-through-difference-map/">
       <b>Explaining Object Detection Through Difference Map</b>
     </a>
-**Shujun Xia**, Chenyang Zhao, Antoni Chan
+<br>
+    <b>Shujun Xia</b>, Chenyang Zhao, Antoni Chan
 </div>
 </div>
 
