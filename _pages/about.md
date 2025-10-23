@@ -23,8 +23,8 @@ Hi there - My name is Shujun Xia, and I also go by Erin. I'm currently a third y
   <details>
     <summary>Expand details</summary>
     <ul>
-      <li><strong>Trained a Transformer-based punctuation prediction model</strong> using PyTorch, improving punctuation restoration for speech transcripts.</li>
-      <li><strong>Constructed an automated data generation pipeline</strong> using Pandas for speech transcript data.</li>
+      <li>Trained a Transformer-based punctuation prediction model using <strong>PyTorch</strong>, improving punctuation restoration for speech transcripts.</li>
+      <li>Constructed an automated <strong>data generation pipeline using Pandas</strong> for speech transcript data.</li>
     </ul>
   </details>
 </div>
@@ -37,10 +37,10 @@ Hi there - My name is Shujun Xia, and I also go by Erin. I'm currently a third y
   <details>
     <summary>Expand details</summary>
     <ul>
-      <li><strong>Built a chatbot web application</strong> for students with a Python Streamlit front-end and Django backend, integrating the OpenAI API for GPT-powered chatbots.</li>
-      <li><strong>Developed a course management system</strong> for teachers using Spring Boot and React, enabling student progress monitoring.</li>
-      <li><strong>Designed and optimized SQL and MongoDB schemas</strong> for user and chat data, improving query efficiency.</li>
-      <li><strong>Deployed both systems with Docker on AWS Cloud</strong> and implemented automated testing using Pytest, JUnit 5, and Jest.</li>
+      <li>Built a <strong>chatbot web application</strong> for students with a <strong>Python Streamlit front-end and Django backend</strong>, integrating the OpenAI API for GPT-powered chatbots.</li>
+      <li>Developed a course management system for teachers using <strong>Spring Boot and React</strong>, enabling student progress monitoring.</li>
+      <li>Designed and optimized <strong>SQL and MongoDB schemas</strong> for user and chat data, improving query efficiency.</li>
+      <li>Deployed both systems with <strong>Docker on AWS Cloud</strong> and implemented automated testing using <strong>Pytest, JUnit 5, and Jest</strong>.</li>
     </ul>
   </details>
 </div>
