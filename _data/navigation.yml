@@ -20,9 +20,10 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
+  - title: "Educations"
+    url: "/#-educations"
+  
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Educations"
-    url: "/#-educations"
     
