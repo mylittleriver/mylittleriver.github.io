@@ -15,64 +15,46 @@ Hi there - My name is Shujun Xia, and I also go by Erin. I'm currently a third y
 ## ✨ Experiences 
 <span class='anchor' id='experiences'></span>
 
-**Hong Kong Generative AI Research and Development Center**  
-*Machine Learning Engineer Intern* | Mar. 2025 – Jun. 2025  
-<details>
-<summary>Expand details</summary>
-
-- Trained a **Transformer-based punctuation prediction model** using **PyTorch**, improving punctuation restoration for speech transcripts.
-
-- Constructed an **automated data generation pipeline** using **Pandas** for speech transcript data.
-
-</details>
-
----
-
-**Department of Computer Science, City University of Hong Kong**  
-*Software Developer Intern* | Jun. 2024 – Mar. 2025  
-<details>
-<summary>Expand details</summary>
-
-- Built a **chatbot web application** for students with a **Python Streamlit front-end** and **Django backend**, integrating the **OpenAI API** for GPT-powered chatbots.  
-- Developed a **course management system** for teachers using **Spring Boot** and **React**, enabling student progress monitoring.  
-- Designed and optimized **SQL and MongoDB** schemas for user and chat data, improving query efficiency.  
-- Deployed both systems with **Docker** on **AWS Cloud** and implemented **automated testing** using **Pytest**, **JUnit 5**, and **Jest**.
-
-</details>
-
----
-
-**Video, Image, and Sound Analysis Lab, City University of Hong Kong**  
-*Student Researcher* | Sep. 2023 – Jun. 2024  
-<details>
-<summary>Expand details</summary>
-
-- Developed **explainable AI methods** for interpreting predictions from **Transformer-based** (DETR, PVT) and **one- and two-stage object detectors** (FCOS, Faster R-CNN).  
-- Generated **explanation heatmaps** using **gradients w.r.t. feature maps**, and proposed a measure of **context influence** to quantify object relationships.
-
-</details>
-
-## 📝 Publications
-<span class='anchor' id='publication'></span>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">eXCV@ICCV 2025</div><img src='images/diffmap.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-<a href="https://excv-workshop.github.io/publication/explaining-object-detection-through-difference-map/">
-      <b>Explaining Object Detection Through Difference Map</b>
-    </a>
-<br>
-    <b>Shujun Xia</b>, Chenyang Zhao, Antoni Chan
-</div>
+<div>
+  <h3>Hong Kong Generative AI Research and Development Center</h3>
+  <p><em>Machine Learning Engineer Intern</em> | Mar. 2025 – Jun. 2025</p>
+  <details>
+    <summary>Expand details</summary>
+    <ul>
+      <li><strong>Trained a Transformer-based punctuation prediction model</strong> using PyTorch, improving punctuation restoration for speech transcripts.</li>
+      <li><strong>Constructed an automated data generation pipeline</strong> using Pandas for speech transcript data.</li>
+    </ul>
+  </details>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/fig0_0925.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-<a href="https://arxiv.org/abs/2510.13500">
-      <b>MedREK: Retrieval-Based Editing for Medical LLMs with Key-Aware Prompts</b>
-    </a>
-<br>
-    <b>Shujun Xia\*</b>, Haokun Lin*, Yichen Wu, Yinan Zhou, Zixuan Li, Zhongwei Wan, Xingrun Xing, Yefeng Zheng, Xiang Li, Caifeng Shan, Zhenan Sun, Quanzheng Li
+<hr>
+
+<div>
+  <h3>Department of Computer Science, City University of Hong Kong</h3>
+  <p><em>Software Developer Intern</em> | Jun. 2024 – Mar. 2025</p>
+  <details>
+    <summary>Expand details</summary>
+    <ul>
+      <li><strong>Built a chatbot web application</strong> for students with a Python Streamlit front-end and Django backend, integrating the OpenAI API for GPT-powered chatbots.</li>
+      <li><strong>Developed a course management system</strong> for teachers using Spring Boot and React, enabling student progress monitoring.</li>
+      <li><strong>Designed and optimized SQL and MongoDB schemas</strong> for user and chat data, improving query efficiency.</li>
+      <li><strong>Deployed both systems with Docker on AWS Cloud</strong> and implemented automated testing using Pytest, JUnit 5, and Jest.</li>
+    </ul>
+  </details>
 </div>
+
+<hr>
+
+<div>
+  <h3>Video, Image, and Sound Analysis Lab, City University of Hong Kong</h3>
+  <p><em>Student Researcher</em> | Sep. 2023 – Jun. 2024</p>
+  <details>
+    <summary>Expand details</summary>
+    <ul>
+      <li><strong>Developed explainable AI methods</strong> for interpreting predictions from Transformer-based (DETR, PVT) and one- and two-stage object detectors (FCOS, Faster R-CNN).</li>
+      <li><strong>Generated explanation heatmaps</strong> using gradients w.r.t. feature maps, and proposed a measure of context influence to quantify object relationships.</li>
+    </ul>
+  </details>
 </div>
 
 ## 📖 Educations 
