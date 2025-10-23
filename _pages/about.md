@@ -59,6 +59,29 @@ Hi there - My name is Shujun Xia, and I also go by Erin. I'm currently a third y
   </details>
 </div>
 
+## 📝 Publications
+<span class='anchor' id='publication'></span>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">eXCV@ICCV 2025</div><img src='images/diffmap.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<a href="https://excv-workshop.github.io/publication/explaining-object-detection-through-difference-map/">
+      <b>Explaining Object Detection Through Difference Map</b>
+    </a>
+<br>
+    <b>Shujun Xia</b>, Chenyang Zhao, Antoni Chan
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/diffmap.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<a href="https://arxiv.org/abs/2510.13500">
+      <b>MedREK: Retrieval-Based Editing for Medical LLMs with Key-Aware Prompts</b>
+    </a>
+<br>
+    <b>Shujun Xia*</b>, Haokun Lin*, Yichen Wu, Yinan Zhou, Zixuan Li, Zhongwei Wan, Xingrun Xing, Yefeng Zheng, Xiang Li, Caifeng Shan, Zhenan Sun, Quanzheng Li
+</div>
+</div>
+
 ## 📖 Educations 
 <span class='anchor' id='educations'></span>
 
