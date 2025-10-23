@@ -12,7 +12,9 @@ Hi there - My name is Shujun Xia, and I also go by Erin. I'm currently a third y
 ## 📣 News 
 - [2025/09] Awarded the ICCV Broadening Participation Travel Grant. See you in Hawaii!
 - [2025/07] My first paper accepted to **eXCV@ICCV 2025**!
+
 ## ✨ Experiences 
+
 <span class='anchor' id='experiences'></span>
 
 <div>
