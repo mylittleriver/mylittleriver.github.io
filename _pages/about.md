@@ -68,7 +68,7 @@ Hi there - My name is Shujun Xia, and I also go by Erin. I'm currently a third y
       <b>Explaining Object Detection Through Difference Map</b>
     </a>
 <br>
-    <b><i>ICCV exCV Workshop (Proceedings Track), 2025</i></b>
+    <i>ICCV exCV Workshop (Proceedings Track), 2025</i>
 <br>
     <b>Shujun Xia</b>, Chenyang Zhao, Antoni Chan
 </div>
@@ -80,7 +80,7 @@ Hi there - My name is Shujun Xia, and I also go by Erin. I'm currently a third y
       <b>MedREK: Retrieval-Based Editing for Medical LLMs with Key-Aware Prompts</b>
     </a>
 <br>
-    <b><i>arXiv Preprint, 2025</i></b>
+    <i>arXiv Preprint, 2025</i>
 <br>
     <b>Shujun Xia</b><sup>*</sup>, Haokun Lin<sup>*</sup>, Yichen Wu, Yinan Zhou, Zixuan Li, Zhongwei Wan, Xingrun Xing, Yefeng Zheng, Xiang Li, Caifeng Shan, Zhenan Sun, Quanzheng Li
 </div>
