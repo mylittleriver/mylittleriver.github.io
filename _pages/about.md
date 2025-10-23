@@ -53,8 +53,8 @@ Hi there - My name is Shujun Xia, and I also go by Erin. I'm currently a third y
   <details>
     <summary>Expand details</summary>
     <ul>
-      <li><strong>Developed explainable AI methods</strong> for interpreting predictions from Transformer-based (DETR, PVT) and one- and two-stage object detectors (FCOS, Faster R-CNN).</li>
-      <li><strong>Generated explanation heatmaps</strong> using gradients w.r.t. feature maps, and proposed a measure of context influence to quantify object relationships.</li>
+      <li>Developed <strong>explainable AI methods</strong> for interpreting predictions from <strong>Transformer-based (DETR, PVT) and one- and two-stage object detectors (FCOS, Faster R-CNN)</strong>.</li>
+      <li>Generated explanation heatmaps using <strong>gradients w.r.t. feature maps</strong>, and proposed a measure of context influence to quantify object relationships.</li>
     </ul>
   </details>
 </div>
