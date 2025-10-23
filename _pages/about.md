@@ -20,7 +20,8 @@ Hi there - My name is Shujun Xia, and I also go by Erin. I'm currently a third y
 <details>
 <summary>Expand details</summary>
 
-- Trained a **Transformer-based punctuation prediction model** using **PyTorch**, improving punctuation restoration for speech transcripts.  
+- Trained a **Transformer-based punctuation prediction model** using **PyTorch**, improving punctuation restoration for speech transcripts.
+
 - Constructed an **automated data generation pipeline** using **Pandas** for speech transcript data.
 
 </details>
