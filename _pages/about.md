@@ -12,27 +12,44 @@ Hi there - My name is Shujun Xia, and I also go by Erin. I'm currently a third y
 ## 📣 News 
 - [2025/09] Awarded the ICCV Broadening Participation Travel Grant. See you in Hawaii!
 - [2025/07] My first paper accepted to **eXCV@ICCV 2025**!
-
 ## ✨ Experiences 
 <span class='anchor' id='experiences'></span>
 
 **Hong Kong Generative AI Research and Development Center**  
 *Machine Learning Engineer Intern* | Mar. 2025 – Jun. 2025  
+<details>
+<summary>Expand details</summary>
+
 - Trained a **Transformer-based punctuation prediction model** using **PyTorch**, improving punctuation restoration for speech transcripts.  
 - Constructed an **automated data generation pipeline** using **Pandas** for speech transcript data.
 
+</details>
+
+---
+
 **Department of Computer Science, City University of Hong Kong**  
 *Software Developer Intern* | Jun. 2024 – Mar. 2025  
-- Built a **chatbot web application** for students with a **Python Streamlit front-end** and **Django backend**, integrating the **OpenAI API** for GPT-powered chatbots
-- Developed a **course management system** for teachers using **Spring Boot** and **React**, enabling student progress monitoring
-- Designed and optimized **SQL and MongoDB** schemas for user and chat data, improving query efficiency
-- Deployed both systems with **Docker** on **AWS Cloud** and implemented **automated testing** using **Pytest**, **JUnit 5**, and **Jest**
+<details>
+<summary>Expand details</summary>
+
+- Built a **chatbot web application** for students with a **Python Streamlit front-end** and **Django backend**, integrating the **OpenAI API** for GPT-powered chatbots.  
+- Developed a **course management system** for teachers using **Spring Boot** and **React**, enabling student progress monitoring.  
+- Designed and optimized **SQL and MongoDB** schemas for user and chat data, improving query efficiency.  
+- Deployed both systems with **Docker** on **AWS Cloud** and implemented **automated testing** using **Pytest**, **JUnit 5**, and **Jest**.
+
+</details>
+
+---
 
 **Video, Image, and Sound Analysis Lab, City University of Hong Kong**  
-*Student Researcher* | Sep. 2023 – Jun. 2024
+*Student Researcher* | Sep. 2023 – Jun. 2024  
+<details>
+<summary>Expand details</summary>
+
 - Developed **explainable AI methods** for interpreting predictions from **Transformer-based** (DETR, PVT) and **one- and two-stage object detectors** (FCOS, Faster R-CNN).  
 - Generated **explanation heatmaps** using **gradients w.r.t. feature maps**, and proposed a measure of **context influence** to quantify object relationships.
 
+</details>
 
 ## 📝 Publications
 <span class='anchor' id='publication'></span>
