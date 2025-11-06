@@ -11,7 +11,7 @@ Hi there - My name is Shujun Xia, and I also go by Erin. I'm currently a junior 
 
 <span style="color:red;">I am actively seeking research collaborations.</span>  If you are interested in potential projects or shared research interests, please feel free to reach out to me via email.  
 
-**Email:** [sx2394@columbia.edu](mailto:sx2394@columbia.edu)
+**Email:** [shujun.xia@columbia.edu](mailto:shujun.xia@columbia.edu)
 
 ## 📣 News 
 - [2025/09] Awarded the ICCV Broadening Participation Travel Grant. See you in Hawaii!
