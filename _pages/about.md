@@ -14,6 +14,7 @@ Hi there - My name is Shujun Xia, and I also go by Erin. I'm currently a junior 
 **Email:** [shujun dot xia at columbia dot edu](mailto:shujun.xia@columbia.edu)
 
 ## 📣 News 
+- [2025/11] MedREK has been accepted to **ResponsibleFM@NeurIPS 2025**! Huge thanks to all my coauthors.
 - [2025/09] Awarded the ICCV Broadening Participation Travel Grant. See you in Hawaii!
 - [2025/07] My first paper accepted to **eXCV@ICCV 2025**!
 
@@ -78,13 +79,13 @@ Hi there - My name is Shujun Xia, and I also go by Erin. I'm currently a junior 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/fig0_0925.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ResponsibleFM@NeurIPS 2025</div><img src='images/fig0_0925.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <a href="https://arxiv.org/abs/2510.13500">
       <b>MedREK: Retrieval-Based Editing for Medical LLMs with Key-Aware Prompts</b>
     </a>
 <br>
-    <i>arXiv Preprint, 2025</i>
+    <i>NeurIPS ResponsibleFM Workshop, 2025</i>
 <br>
     <b>Shujun Xia</b><sup>*</sup>, Haokun Lin<sup>*</sup>, Yichen Wu, Yinan Zhou, Zixuan Li, Zhongwei Wan, Xingrun Xing, Yefeng Zheng, Xiang Li, Caifeng Shan, Zhenan Sun, Quanzheng Li
 </div>
