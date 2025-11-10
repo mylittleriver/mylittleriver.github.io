@@ -99,6 +99,7 @@ Hi there - My name is Shujun Xia, and I also go by Erin. I'm currently a junior 
 
   
 ## 🏆 Honors and Awards 
+- ICCV 2025 Broadening Participation Travel Grant (2025)
 - Columbia University Distinguished New Student Scholoarship (2025)
 - National First Prize, Wutong Cup Big Data Innovation Competition (2024)
 - HKSAR Talent Development Scholarship (2023 & 2025)
