@@ -69,7 +69,7 @@ Hi there - My name is Shujun Xia, and I also go by Erin. I'm currently a junior 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">eXCV@ICCV 2025</div><img src='images/diffmap.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-<a href="https://excv-workshop.github.io/publication/explaining-object-detection-through-difference-map/">
+<a href="https://openaccess.thecvf.com/content/ICCV2025W/eXCV/html/Xia_Explaining_Object_Detection_Through_Difference_Map_ICCVW_2025_paper.html">
       <b>Explaining Object Detection Through Difference Map</b>
     </a>
 <br>
