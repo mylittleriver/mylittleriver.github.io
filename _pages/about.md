@@ -73,7 +73,7 @@ Hi there - My name is Shujun Xia, and I also go by Erin. I'm currently a junior 
       <b>Explaining Object Detection Through Difference Map</b>
     </a>
 <br>
-    <i>ICCV exCV Workshop (Proceedings Track), 2025</i>
+    <i>ICCV eXCV Workshop (Proceedings Track), 2025</i>
 <br>
     <b>Shujun Xia</b>, Chenyang Zhao, Antoni Chan
 </div>
