@@ -7,7 +7,10 @@ redirect_from:
   - /about.html
 ---
 <span class='anchor' id='about-me'></span>
-Hi there - My name is Shujun Xia, and I also go by Erin. I'm currently a junior majoring in CS at Columbia University. Previously, I was fortunate to work with Prof. [Antoni Chan](https://www.cs.cityu.edu.hk/~abchan/) on **explainable AI for computer vision**. I have also worked on **Continual Learning and Knowledge Editing in LLMs** with two first-authored papers under review. My current research interests lie in **multimodal understanding and learning, and interpretability of deep learning models**. 
+Hi there - My name is Shujun Xia, and I also go by Erin. I'm currently a junior majoring in CS at Columbia University. Previously, I was fortunate to work with Prof. [Antoni Chan](https://www.cs.cityu.edu.hk/~abchan/) on **explainable AI for computer vision**. I have also worked on **Continual Learning and Knowledge Editing in LLMs** with two first-authored papers under review. My current research interests lie in:
+          - LLM reasoning
+          - multimodal understanding and learning
+          - interpretability of deep learning models 
 
 <span style="color:red;">I am actively seeking research collaborations.</span>  If you are interested in potential collaborations or have related interests, feel free to email me.  
 
