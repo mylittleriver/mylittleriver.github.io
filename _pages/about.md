@@ -12,7 +12,7 @@ Hi there - My name is Shujun Xia, and I also go by Erin. I'm currently a junior 
 - multimodal understanding and learning
 - interpretability of deep learning models 
 
-<span style="color:red;">I am actively seeking research collaborations.</span>  If you are interested in potential collaborations or have related interests, feel free to email me.  
+If you are interested in potential collaborations or have related interests, feel free to email me.  
 
 **Email:** [shujun dot xia at columbia dot edu](mailto:shujun.xia@columbia.edu)
 
