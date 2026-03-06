@@ -16,7 +16,7 @@ If you are interested in potential collaborations or have related interests, fee
 **Email:** [shujun dot xia at columbia dot edu](mailto:shujun.xia@columbia.edu)
 
 ## 📣 News 
-- [2025/1] Our survey on efficient diffusion LLMs is out!
+- [2025/1] Our <a href="#efficient-diffusion-llm-survey">survey on efficient diffusion LLMs</a> is out!
 - [2025/11] MedREK has been accepted to **ResponsibleFM@NeurIPS 2025**! Huge thanks to all my coauthors.
 - [2025/09] Awarded the ICCV Broadening Participation Travel Grant. See you in Hawaii!
 - [2025/07] My first paper accepted to **eXCV@ICCV 2025**!
@@ -94,7 +94,7 @@ If you are interested in potential collaborations or have related interests, fee
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/taxonomy.png' alt="sym" width="100%"></div></div>
+<div id="efficient-diffusion-llm-survey" class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/taxonomy.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <a href="https://www.authorea.com/users/1021451/articles/1381451-efficient-diffusion-language-models-a-comprehensive-survey">
       <b>Efficient Diffusion Language Models: A Comprehensive Survey</b>
