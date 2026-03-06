@@ -97,7 +97,7 @@ If you are interested in potential collaborations or have related interests, fee
 <span class='anchor' id='educations'></span>
 
 - 2025.08 - 2027.06 (expected): Columbia University (Dual Degree Program).
-- 2022.08 - 2027.06 (expected): City University of Hong Kong (Dual Degree Program).
+- 2023.08 - 2027.06 (expected): City University of Hong Kong (Dual Degree Program).
 
   
 ## 🏆 Honors and Awards 
