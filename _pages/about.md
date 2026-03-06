@@ -21,6 +21,50 @@ If you are interested in potential collaborations or have related interests, fee
 - [2025/09] Awarded the ICCV Broadening Participation Travel Grant. See you in Hawaii!
 - [2025/07] My first paper accepted to **eXCV@ICCV 2025**!
 
+## 📝 Publications
+<span class='anchor' id='publication'></span>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">eXCV@ICCV 2025</div><img src='images/diffmap.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<a href="https://openaccess.thecvf.com/content/ICCV2025W/eXCV/html/Xia_Explaining_Object_Detection_Through_Difference_Map_ICCVW_2025_paper.html">
+      <b>Explaining Object Detection Through Difference Map</b>
+    </a>
+<br>
+    <i>ICCV eXCV Workshop (Proceedings Track), 2025</i>
+<br>
+    <b>Shujun Xia</b>, Chenyang Zhao, Antoni Chan
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ResponsibleFM@NeurIPS 2025</div><img src='images/fig0_0925.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<a href="https://arxiv.org/abs/2510.13500">
+      <b>MedREK: Retrieval-Based Editing for Medical LLMs with Key-Aware Prompts</b>
+    </a>
+<br>
+    <i>NeurIPS ResponsibleFM Workshop, 2025</i>
+<br>
+    <b>Shujun Xia</b><sup>*</sup>, Haokun Lin<sup>*</sup>, Yichen Wu, Yinan Zhou, Zixuan Li, Zhongwei Wan, Xingrun Xing, Yefeng Zheng, Xiang Li, Caifeng Shan, Zhenan Sun, Quanzheng Li
+</div>
+</div>
+
+<div id="efficient-diffusion-llm-survey" class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/taxonomy.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<a href="https://www.authorea.com/users/1021451/articles/1381451-efficient-diffusion-language-models-a-comprehensive-survey">
+      <b>Efficient Diffusion Language Models: A Comprehensive Survey</b>
+    </a>
+<br>
+    <i>Under Review, 2026</i>
+<br>
+    <b>Haokun Lin</b><sup>*</sup>, Xinle Jia<sup>*</sup>, Shaozhen Liu<sup>*</sup>,  Shujun Xia<sup>*</sup>, Weitao Huang, et al
+
+<a href="https://github.com/FelixMessi/Awesome-Efficient-dLLMs">
+<i class="fa fa-github"></i> GitHub
+</a>
+
+</div>
+</div>
+
 ## ✨ Experiences 
 
 <span class='anchor' id='experiences'></span>
@@ -65,50 +109,6 @@ If you are interested in potential collaborations or have related interests, fee
       <li>Generated explanation heatmaps using <strong>gradients w.r.t. feature maps</strong>, and proposed a measure of context influence to quantify object relationships.</li>
     </ul>
   </details>
-</div>
-
-## 📝 Publications
-<span class='anchor' id='publication'></span>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">eXCV@ICCV 2025</div><img src='images/diffmap.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-<a href="https://openaccess.thecvf.com/content/ICCV2025W/eXCV/html/Xia_Explaining_Object_Detection_Through_Difference_Map_ICCVW_2025_paper.html">
-      <b>Explaining Object Detection Through Difference Map</b>
-    </a>
-<br>
-    <i>ICCV eXCV Workshop (Proceedings Track), 2025</i>
-<br>
-    <b>Shujun Xia</b>, Chenyang Zhao, Antoni Chan
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ResponsibleFM@NeurIPS 2025</div><img src='images/fig0_0925.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-<a href="https://arxiv.org/abs/2510.13500">
-      <b>MedREK: Retrieval-Based Editing for Medical LLMs with Key-Aware Prompts</b>
-    </a>
-<br>
-    <i>NeurIPS ResponsibleFM Workshop, 2025</i>
-<br>
-    <b>Shujun Xia</b><sup>*</sup>, Haokun Lin<sup>*</sup>, Yichen Wu, Yinan Zhou, Zixuan Li, Zhongwei Wan, Xingrun Xing, Yefeng Zheng, Xiang Li, Caifeng Shan, Zhenan Sun, Quanzheng Li
-</div>
-</div>
-
-<div id="efficient-diffusion-llm-survey" class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/taxonomy.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-<a href="https://www.authorea.com/users/1021451/articles/1381451-efficient-diffusion-language-models-a-comprehensive-survey">
-      <b>Efficient Diffusion Language Models: A Comprehensive Survey</b>
-    </a>
-<br>
-    <i>Under Review, 2026</i>
-<br>
-    <b>Haokun Lin</b><sup>*</sup>, Xinle Jia<sup>*</sup>, Shaozhen Liu<sup>*</sup>,  Shujun Xia<sup>*</sup>, Weitao Huang, et al
-
-<a href="https://github.com/FelixMessi/Awesome-Efficient-dLLMs">
-<i class="fa fa-github"></i> GitHub
-</a>
-
-</div>
 </div>
 
 ## 📖 Educations 
