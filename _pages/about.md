@@ -56,10 +56,10 @@ If you are interested in potential collaborations or have related interests, fee
 <br>
     <i>Under Review, 2026</i>
 <br>
-    <b>Haokun Lin</b><sup>*</sup>, Xinle Jia<sup>*</sup>, Shaozhen Liu<sup>*</sup>,  Shujun Xia<sup>*</sup>, Weitao Huang, et al
+    Haokun Lin<sup>*</sup>, Xinle Jia<sup>*</sup>, Shaozhen Liu<sup>*</sup>,  <b>Shujun Xia</b><sup>*</sup>, Weitao Huang, et al
 
 <a href="https://github.com/FelixMessi/Awesome-Efficient-dLLMs">
-<i class="fa fa-github"></i> GitHub
+GitHub
 </a>
 
 </div>
