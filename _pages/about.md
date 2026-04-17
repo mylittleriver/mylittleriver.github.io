@@ -19,7 +19,7 @@ If you are interested in potential collaborations or have related interests, fee
 - [2026/01] Our <a href="#efficient-diffusion-llm-survey">survey on efficient diffusion LLMs</a> is out!
 - [2025/11] MedREK has been accepted to **ResponsibleFM@NeurIPS 2025**! Huge thanks to all my coauthors.
 - [2025/09] Awarded the ICCV Broadening Participation Travel Grant. See you in Hawaii!
-- [2025/07] My first paper accepted to **eXCV@ICCV 2025**!
+- [2025/07] My first paper accepted to **eXCV@ICCV 2025 Proceedings**!
 
 ## 📝 Publications
 <span class='anchor' id='publication'></span>
