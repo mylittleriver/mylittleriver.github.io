@@ -37,13 +37,13 @@ If you are interested in potential collaborations or have related interests, fee
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ResponsibleFM@NeurIPS 2025</div><img src='images/fig0_0925.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/fig0_0925.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <a href="https://arxiv.org/abs/2510.13500">
       <b>MedREK: Retrieval-Based Editing for Medical LLMs with Key-Aware Prompts</b>
     </a>
 <br>
-    <i>NeurIPS ResponsibleFM Workshop, 2025</i>
+    <i>ICML Main, 2026</i>
 <br>
     <b>Shujun Xia</b><sup>*</sup>, Haokun Lin<sup>*</sup>, Yichen Wu, Yinan Zhou, Zixuan Li, Zhongwei Wan, Xingrun Xing, Yefeng Zheng, Xiang Li, Caifeng Shan, Zhenan Sun, Quanzheng Li
 </div>
