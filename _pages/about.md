@@ -68,6 +68,14 @@ GitHub
 </div>
 </div>
 
+
+## 📖 Educations 
+<span class='anchor' id='educations'></span>
+
+- 2025.08 - 2027.06 (expected): Columbia University (Dual Degree Program).
+- 2023.08 - 2027.06 (expected): City University of Hong Kong (Dual Degree Program).
+
+
 ## ✨ Experiences 
 
 <span class='anchor' id='experiences'></span>
@@ -113,12 +121,6 @@ GitHub
     </ul>
   </details>
 </div>
-
-## 📖 Educations 
-<span class='anchor' id='educations'></span>
-
-- 2025.08 - 2027.06 (expected): Columbia University (Dual Degree Program).
-- 2023.08 - 2027.06 (expected): City University of Hong Kong (Dual Degree Program).
 
   
 ## 🏆 Honors and Awards 
