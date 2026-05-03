@@ -11,12 +11,14 @@ Hi there - My name is Shujun Xia, and I also go by Erin. I'm currently a junior 
 - multimodal understanding and learning
 - interpretability of deep learning models 
 
+<span style="color:pink;"> I'm actively seeking CS PhD positions in North America for 2027 Fall </span> 
+
 If you are interested in potential collaborations or have related interests, feel free to email me.  
 
 **Email:** [shujun dot xia at columbia dot edu](mailto:shujun.xia@columbia.edu)
 
 ## 📣 News 
-- [2026/04] MedREK has been accepted to **ICML 2026 Main Conference**! What a long journey 😴
+- [2026/04] MedREK has been accepted to **ICML 2026 Main Conference**! What a long journey 😴 See you in Seoul!
 - [2026/01] Our <a href="#efficient-diffusion-llm-survey">survey on efficient diffusion LLMs</a> is out!
 - [2025/11] MedREK has been accepted to **ResponsibleFM@NeurIPS 2025**! Huge thanks to all my coauthors.
 - [2025/09] Awarded the ICCV Broadening Participation Travel Grant. See you in Hawaii!
